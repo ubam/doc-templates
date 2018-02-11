@@ -18,12 +18,12 @@ Or maybe this is not You and Your name is not Wayne and you really don't mind pe
 
 The first step in being able to use and eventually master github is to understand the 'why' behind it.  In short, Github allows us to have full control over document content while creating these documents in a community environment, which UBports is.  The benefits of 'sticking to the program' (even if it's foreign to you in the beginning) are:
 
--version control (if someone goofs a document and loses a paragraph, you can see the old version and correct error)
--group collaboration
--standarized text format (it's a simple text environment)
--easier transition to computer programming if/when you ever decide to start writing code - after all, the code that runs Ubuntu Touch lives in Github, too!
--email alerts when changes happen to documents
--and more
+- version control (if someone goofs a document and loses a paragraph, you can see the old version and correct error)
+- group collaboration
+- standarized text format (it's a simple text environment)
+- easier transition to computer programming if/when you ever decide to start writing code - after all, the code that runs Ubuntu Touch lives in Github, too!
+- email alerts when changes happen to documents
+- and more
 
 
 
