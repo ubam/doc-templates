@@ -14,7 +14,7 @@ So, maybe this is You. Does GitHub seem really intimidating? Do you sometimes go
 
 Or maybe this is not You and Your name is not Wayne and you really don't mind people talking about GitHub but have no clue what to do there other than just following links people post and try to read some of the text that appears. Do not worry, this is aimed at *you*, too!
 
-#Why Use Github?
+# Why Use Github?
 
 The first step in being able to use and eventually master github is to understand the 'why' behind it.  In short, Github allows us to have full control over document content while creating these documents in a community environment, which UBports is.  The benefits of 'sticking to the program' (even if it's foreign to you in the beginning) are:
 
